@@ -1,0 +1,57 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiLayout",
+      "SiTailwindcss",
+      "LiSwords",
+      "LiWaves",
+      "🆚"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Frontend WebDev/Tailwind CSS.md": {
+    "iconName": "SiTailwindcss",
+    "iconColor": "#4095c9"
+  },
+  "Frontend WebDev/Tags.md": {
+    "iconName": "LiTags",
+    "iconColor": "#e3c796"
+  },
+  "Frontend WebDev/Layout and Flexboxes.md": {
+    "iconName": "TiLayout",
+    "iconColor": "#248434"
+  },
+  "Frontend WebDev/JIT.md": {
+    "iconName": "LiServer",
+    "iconColor": "#eca136"
+  },
+  "Frontend WebDev/Tailwind VS Trad CSS.md": {
+    "iconName": "LiSwords",
+    "iconColor": "#ffffff"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "release": {
+    "channel": "stable",
+    "automaticUpdates": false
+  },
+  "sharedFolders": [
+    {
+      "path": "Frontend WebDev",
+      "guid": "43287103-e609-4c2b-93d2-ff5045acac83",
+      "relay": "48d51f62-0b2f-42f8-8807-a520cde173b9",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": false
+      }
+    }
+  ],
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableHTTPSync": false,
+  "enableSyncMenu": true,
+  "enableDocumentServer": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableSyncModal": false,
+  "enableDesyncPill": false,
+  "enableAutomaticUpdatesOption": false,
+  "enableAttachmentSync": true,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "debugging": false
+}
